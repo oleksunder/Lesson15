@@ -39,6 +39,8 @@ public class Lesson15 {
 
         System.out.println("Кувшинки займут половину пруда или больше на день номер " + daysCount(n));
 
+
+        // TBD: Неплохо бы вынести в отдельную функцию.
         /*
         System.out.print("Введите текущий день: ");
         int n = scanner.nextInt();
